@@ -1,6 +1,5 @@
-# TypeScript Features
+# Matiere
 
-TypeScriptのAnnouncing TypeScript x.xを素振りするリポジトリ
+Markdown Parser.
 
-[v4.1](https://devblogs.microsoft.com/typescript/announcing-typescript-4-1/)
 
